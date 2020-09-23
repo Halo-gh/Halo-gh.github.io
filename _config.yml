@@ -21,8 +21,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: Halo-gh
-    github: Halo-gh
-    linkedIn: Halo-gh
+    github: Halo-gh.git
+    linkedIn: /n Halo-gh
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
