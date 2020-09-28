@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tortoisegit图文使用教程]"
+title:  "Tortoisegit图文使用教程"
 date:   2020-09-28 09:27:36 +0530
 categories: Tortoisegit  git
 ---
