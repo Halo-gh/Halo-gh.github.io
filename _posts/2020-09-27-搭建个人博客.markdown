@@ -70,7 +70,7 @@ categories: 其他
 
 ![image-20200927101820207](C:\Users\李光辉\AppData\Roaming\Typora\typora-user-images\image-20200927101820207.png)
 
-到这一步呢，正常来说你就可以看到自己的博客了。在地址栏输入：用户名.[http://github.io](https://link.zhihu.com/?target=http%3A//github.io)你就可以访问页面了。
+到这一步呢，正常来说你就可以看到自己的博客了。在地址栏输入：http://name.github.io]你就可以访问页面了。
 
 3.接下来，就该去下载GitHub桌面版了，为什么使用桌面版呢，因为简单，适合小白，没那么多命令行。
 
