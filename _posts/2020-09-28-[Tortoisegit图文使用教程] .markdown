@@ -5,12 +5,6 @@ date:   2020-09-28 09:27:36 +0530
 categories: Tortoisegit  git
 ---
 
-# Tortoisegit图文使用教程]
-
- 
-
- 
-
 本文只针对使用Tortoisegit的用户，使用命令行的后面可以不用看了
 
 1.安装Git及Tortoisegit
